@@ -27,7 +27,7 @@ Thanks to [Symfony](https://symfony.com/)
 
 ### 1) Get all source files
 
-- git clone https://github.com/AllanBiville/feedback.git
+- git clone https://github.com/Blierevan/feedback.git
 - composer install
 
 
